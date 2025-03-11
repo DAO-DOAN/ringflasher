@@ -1,2 +1,4 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ChanhDao/ProjectVivado/Multiply/TKVM-Lab1a/TKVM-Lab1a.srcs/sim_1/new/reset_repeat_same.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module reset_repeat_same
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ChanhDao/GIT/SourceTree/RingFlasher/RingFlasher/TKVM-Lab1a.srcs/sources_1/new/ring_flasher.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ring_flasher
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ChanhDao/GIT/SourceTree/RingFlasher/RingFlasher/TKVM-Lab1a.srcs/sim_1/new/ring_flashs_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ring_flashs_tb

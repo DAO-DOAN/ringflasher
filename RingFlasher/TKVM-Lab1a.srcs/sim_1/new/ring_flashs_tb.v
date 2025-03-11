@@ -1,4 +1,4 @@
-`timescale 1us / 1ns
+`timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
 // Engineer: 
@@ -24,18 +24,13 @@ module ring_flashs_tb;
     reg clk, n_rst;
     wire [15:0]led;
     reg re;
-ring_flasher uut(.clk(clk),.rst_n(n_rst),.led(led),.repeat_in(re)); 
-//initial begin
-//    clk=1'b0;
-//end  
-//always  begin
-//   #5 clk=~clk;
-//end
-initial begin
-    clk =0 ;
-    forever #5 clk=~clk;
+ring_flasher uut(.clk(clk),.rst_n(n_rst),.led(led),.repeat_in(re));  
+always  begin
+   #5 clk=~clk;
 end
+
 initial begin
+    clk=0;
     #5 n_rst=0;
     #5 n_rst=1;
     #5 re = 1;
@@ -50,5 +45,5 @@ initial begin
     #100 n_rst=0;
     #10 n_rst=1;
 end 
-    
+
 endmodule
