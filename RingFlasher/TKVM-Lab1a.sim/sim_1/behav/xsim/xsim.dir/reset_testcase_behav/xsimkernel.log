@@ -1,0 +1,7 @@
+Running: xsim.dir/reset_testcase_behav/xsimk.exe -simmode gui -wdb reset_testcase_behav.wdb -simrunnum 0 -socket 51820
+Design successfully loaded
+Design Loading Memory Usage: 9528 KB (Peak: 9528 KB)
+Design Loading CPU Usage: 31 ms
+Simulation completed
+Simulation Memory Usage: 10100 KB (Peak: 10100 KB)
+Simulation CPU Usage: 31 ms

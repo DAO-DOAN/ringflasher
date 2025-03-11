@@ -1,0 +1,11 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+D:/ChanhDao/ProjectVivado/Multiply/TKVM-Lab1a/TKVM-Lab1a.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+D:/ChanhDao/ProjectVivado/Multiply/TKVM-Lab1a/TKVM-Lab1a.srcs/sim_1/new/repeat_testcase.v,1741074392,verilog,,,,repeat_testcase,,,,,,,,
+D:/ChanhDao/ProjectVivado/Multiply/TKVM-Lab1a/TKVM-Lab1a.srcs/sim_1/new/reset_repeat_same.v,1741134773,verilog,,,,reset_repeat_same,,,,,,,,
+D:/ChanhDao/ProjectVivado/Multiply/TKVM-Lab1a/TKVM-Lab1a.srcs/sim_1/new/reset_testcase.v,1741074505,verilog,,,,reset_testcase,,,,,,,,
+D:/ChanhDao/ProjectVivado/Multiply/TKVM-Lab1a/TKVM-Lab1a.srcs/sim_1/new/ring_flashs_tb.v,1741073043,verilog,,,,ring_flashs_tb,,,,,,,,
+D:/ChanhDao/ProjectVivado/Multiply/TKVM-Lab1a/TKVM-Lab1a.srcs/sources_1/new/ring-flashs.v,1740624415,verilog,,D:/ChanhDao/ProjectVivado/Multiply/TKVM-Lab1a/TKVM-Lab1a.srcs/sim_1/new/ring_flashs_tb.v,,main,,,,,,,,
+D:/ChanhDao/ProjectVivado/Multiply/TKVM-Lab1a/TKVM-Lab1a.srcs/sources_1/new/ring_flasher.v,1740628910,verilog,,D:/ChanhDao/ProjectVivado/Multiply/TKVM-Lab1a/TKVM-Lab1a.srcs/sim_1/new/reset_repeat_same.v,,ring_flasher,,,,,,,,

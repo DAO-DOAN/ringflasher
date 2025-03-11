@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Wed Mar  5 07:58:18 2025
+# Process ID: 3484
+# Current directory: D:/ChanhDao/ProjectVivado/Multiply/TKVM-Lab1a/TKVM-Lab1a.runs/synth_1
+# Command line: vivado.exe -log ring_flasher.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ring_flasher.tcl
+# Log file: D:/ChanhDao/ProjectVivado/Multiply/TKVM-Lab1a/TKVM-Lab1a.runs/synth_1/ring_flasher.vds
+# Journal file: D:/ChanhDao/ProjectVivado/Multiply/TKVM-Lab1a/TKVM-Lab1a.runs/synth_1\vivado.jou
+# Running On        :DESKTOP-QL5HS61
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :26100
+# Processor Detail  :AMD Ryzen 7 8745H with Radeon 780M Graphics
+# CPU Frequency     :3793 MHz
+# CPU Physical cores:8
+# CPU Logical cores :16
+# Host memory       :16438 MB
+# Swap memory       :8321 MB
+# Total Virtual     :24759 MB
+# Available Virtual :8647 MB
+#-----------------------------------------------------------
+source ring_flasher.tcl -notrace
